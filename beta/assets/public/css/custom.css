@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.answer-block {
+    font-size: 20px;
+    background: #ccc;
+}
+
+section.space10 {
+    margin: 10px 0;
+}
